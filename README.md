@@ -21,7 +21,7 @@
 <img width="120px" src="https://raw.githubusercontent.com/JonDotsoy/Vector-Logo/430aec93009f32fd8fa48081eb45e27f24e84f6d/Logos/AJAX/AJAX.svg">
 
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg">
+<img width="100px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg">
 
 <a href=""><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
