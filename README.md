@@ -1,8 +1,7 @@
 
 
 <div align="center">
-<h1></h1>
-<strong>Hi there 👋</strong><br></br>
+<h3>Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px"><br></h3>
 
 <a href="https://github.com/i-Lucas">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=i-Lucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,7 +9,8 @@
 </div>
 
 <div width="100%" align="center"><h1></h1>
-<strong>Skills 🔧</strong><br></br>
+<strong>Skills</strong>
+<img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" height="25px"><br></br>
 
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" target="_blank">
@@ -43,7 +43,8 @@
 </div>
 <h1></h1>
 <div align="center"> 
-<strong>Contacts ☎️</strong><br></br>
+<strong>Contacts</strong>
+<img src="https://i.pinimg.com/originals/ae/0c/5a/ae0c5aca3ef494a0d3cfe91731962603.gif" height="20px"><br></br>
 
 <a href="https://www.linkedin.com/in/hilucas/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:novo.contato.lucas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
