@@ -26,6 +26,7 @@
 
 <a href=""><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
 <a href=""><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></a>
 
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
