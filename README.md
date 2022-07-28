@@ -33,6 +33,7 @@
 <img width="120px" src="https://java-master.com/wp-content/uploads/2019/11/sfw0002-01-REST_Architecture.png">
 
 <a href="https://github.com/i-Lucas"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/9ef3264351d651401a679e2041980dff3ae7b128/logos/cypress.svg" width="100px">
 <img src="https://raw.githubusercontent.com/cncf/landscape/876cf1571230d672a095eec23843d4ca3fbe94d4/hosted_logos/vercel.svg" width="120px">
 
 <img width="120px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
