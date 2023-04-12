@@ -19,7 +19,7 @@
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
 <br />
 <img width="120px" src="https://raw.githubusercontent.com/JonDotsoy/Vector-Logo/430aec93009f32fd8fa48081eb45e27f24e84f6d/Logos/AJAX/AJAX.svg">
-<img width="120px" src="https://java-master.com/wp-content/uploads/2019/11/sfw0002-01-REST_Architecture.png">
+<img width="120px" src="https://i.imgur.com/es5KYKL.png">
 <img width="120px" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg">
 <br />
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
